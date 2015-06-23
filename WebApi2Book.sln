@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi2Book.Data", "WebApi2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi2Book.Data.SqlServer", "WebApi2Book.Data.SqlServer\WebApi2Book.Data.SqlServer.csproj", "{15DFD8BE-1E85-4114-91F8-8345F21A90F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi2Book.WebApi.Models", "WebApi2Book.WebApi.Models\WebApi2Book.WebApi.Models.csproj", "{17104E53-D211-42F9-9BAE-BB488E54CE09}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi2Book.Web.Api.Models", "WebApi2Book.WebApi.Models\WebApi2Book.Web.Api.Models.csproj", "{17104E53-D211-42F9-9BAE-BB488E54CE09}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi2Book.Web.Common", "WebApi2Book.Web.Common\WebApi2Book.Web.Common.csproj", "{24C3574F-F6C7-4F09-9576-397B75AA0C96}"
 EndProject

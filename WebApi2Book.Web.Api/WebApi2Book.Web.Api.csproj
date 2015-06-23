@@ -157,9 +157,9 @@
       <Project>{24c3574f-f6c7-4f09-9576-397b75aa0c96}</Project>
       <Name>WebApi2Book.Web.Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\WebApi2Book.WebApi.Models\WebApi2Book.WebApi.Models.csproj">
+    <ProjectReference Include="..\WebApi2Book.WebApi.Models\WebApi2Book.Web.Api.Models.csproj">
       <Project>{17104e53-d211-42f9-9bae-bb488e54ce09}</Project>
-      <Name>WebApi2Book.WebApi.Models</Name>
+      <Name>WebApi2Book.Web.Api.Models</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
