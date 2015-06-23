@@ -21,5 +21,10 @@ namespace WebApi2Book.WebApi.Models
 		{
 			Links.Add(link);
 		}
+
+		public void RemoveLink(Link link)
+		{
+			Links.Remove(link);
+		}
 	}
 }
